@@ -178,7 +178,7 @@ class Homepage extends React.Component {
               Khuzama Shahid
             </t.H1>
             <t.LargeP align="center" max45>
-              Hello! I'm a MERN STACK DEVELOPER with a passion to build eye catching and performant Web & Mobile Apps.
+              Hello! I'm a Full Stack Blockchain Engineer with a passion to build eye catching and performant Web & Mobile DApps.
             </t.LargeP>
             <HireMe large onClick={this.openContactPopup} book>
               Hire me
@@ -189,7 +189,7 @@ class Homepage extends React.Component {
               Experience
             </t.H2>
             <t.P align="center" max70 className="who-desc">
-              I am Khuzama Shahid. I'm from Pakistan, PK. I'm a fullstack software engineer interested in architecting
+              I am Khuzama Shahid. I'm from Pakistan, PK. I'm a fullstack blockchain engineer interested in architecting
               and building performant web and mobile applications with pixel-perfect, buttery-smooth user interfaces,
               backed by flexible, state-of-the-art APIs. I have experience in both enterprise and non-enterprise
               environments.
@@ -242,7 +242,7 @@ class Homepage extends React.Component {
               </acornym>
             </Techs>
             <t.H2 primary align="center" bold className="portfolio">
-              Portfolio
+             Personal Projects Portfolio
             </t.H2>
           </Content>
           <Block>
