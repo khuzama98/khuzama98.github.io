@@ -84,14 +84,15 @@ class AboutMe extends React.Component {
         <Layout theme="white" openContactPopup={this.openContactPopup}>
           <AboveFold>
             <t.H1 green align="center">
-              Khuzama Shahid - Web & Mobile App Developer
+              Khuzama Shahid - Full Stack Blockchain Developer
             </t.H1>
             <t.LargeP align="center" max70>
-              I am Khuzama Shahid. I'm from Pakistan, PK. Currently I'm in final year of my Bachelors Degree in Software
+              I am Khuzama Shahid. I'm from Pakistan, PK. I have done Bachelors Degree in Software
               Engineering from University of Karachi - UBIT. Apart from my bachelors I have been doing development for
               more than 3 years. I have worked with different companies in different environments & have vast experience
-              in handling different types of projects. Currently I'm working in a company as DEVELOPMENT TEAM LEAD,
-              further more I have been doing freelancing on different platforms for more than a year with my colleagues.
+              in handling different types of projects. Previously I have experience working as a freelancer for different clients. 
+              Currently I'm working in a Blockchain based company as Reseach Engineer. I have experience in developing different types of Dapps such as Bridge, Wallet, Staking Dapp etc
+              
             </t.LargeP>
           </AboveFold>
           <Content>

@@ -96,14 +96,14 @@ class HireMePopup extends React.Component {
           <Link primary bold target="_blank" href="https://github.com/khuzama98">
             <img src={GH} alt="Your Github profile" />
           </Link>
-          <Link
+          {/* <Link
             primary
             bold
             target="_blank"
             href="https://www.upwork.com/o/profiles/users/~012d4cf54a95debda5/"
           >
             <img src={UW} alt="Your Upwork profile" />
-          </Link>
+          </Link> */}
           <Link primary bold target="_blank" href="https://www.fiverr.com/khuzamashahid98">
             <img src={FV} alt="Your Fiverr profile" />
           </Link>
